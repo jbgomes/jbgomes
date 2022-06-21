@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Julia
 
 - 🔭 I’m currently working on analog microelectronics applied to optical communication
-- 🌱 I’m currently learning track Julia
+- 🌱 I’m currently learning the Julia track
 
 <div align="center">
   <a href="https://github.com/jbgomes">
