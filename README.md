@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Julia
 
 - 🔭 I’m currently working on analog microelectronics applied to optical communication
-- 🌱 I’m currently learning the Julia track
 
 </div>
 <div style="display: inline_block"><br>
